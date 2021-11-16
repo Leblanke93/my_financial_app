@@ -29,7 +29,7 @@ Run the command: streamlit run streamlit_app.py
 and view the results in http://localhost:8501
 
 ### Streamlit cloud
-View the results in https://share.streamlit.io/sumeetvaidya/bootcamp-project-1/main
+View the results in https://share.streamlit.io/leblanke93/my_financial_app/main
 
 ## Dashboard Images
 
